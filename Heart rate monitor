@@ -1,0 +1,3 @@
+I wrote the code to detect the peaks of the signal, calculate the heartbeat and plotted it in a GUI
+Several libraries were used such as numpy, matplotlib, serial, and scipy in Python.
+
