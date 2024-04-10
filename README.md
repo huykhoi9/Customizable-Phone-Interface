@@ -6,6 +6,7 @@ One of the approaches to monitor the heart rate is collecting ECG signals from 3
 ![IMG_2446](https://github.com/huykhoi9/Customizable-Phone-Interface/assets/85450944/bb8a4da5-b94e-434d-9dbd-d42cabda1007)
 ![SmartSelect_20240405_014020_OneNote](https://github.com/huykhoi9/Customizable-Phone-Interface/assets/85450944/fcd62e4e-b570-4f40-8c5c-b5e00b1a0c49)
 ![IMG_2464](https://github.com/huykhoi9/Customizable-Phone-Interface/assets/85450944/c88d67a9-d4d5-4789-b413-94555e9101c0)
+![IMG_2444](https://github.com/huykhoi9/Customizable-Phone-Interface/assets/85450944/5f0518cf-0e29-4a81-80fb-ef15914ca9c3)
 
 
 ## Pulse Oximeter heart rate monitor
